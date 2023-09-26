@@ -1,6 +1,6 @@
-Consideraciones para entrega final. 
+###Consideraciones para entrega final. 
 
-Que se pide:
+##Que se pide:
     1- Video con el funcionamiento de su app. (50 seg aprox)- en cuenta de esto Hacemos un deploy. 
         Subirlo a un host. Gratuito. (netlify).
         - npm run build -> nos va a crear los estáticos. 
@@ -18,3 +18,19 @@ lista que deberá estar el código optimizado ():
     - Diseño modular -> separar en archivos por responsabilidades. 
     - No mezclar idiomas en el cód. 
     - Todo bien identado.
+
+Readme: 
+    Nombre mail redes sociales. 
+
+    Deploy. demo (si o s)í
+
+    librería externas usada con las versiones 
+    bootstrap        | 5.3.1 | Sirve para dar estilos a nuestra app
+    react-bootstrap  |
+    react-router-dom |
+
+    Podría estar
+    colnar proyectos.
+    cd npmbre-pryecto.
+    npm i
+    npm run dev local
